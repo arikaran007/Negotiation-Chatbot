@@ -1,0 +1,10 @@
+streamlit
+langchain
+requests
+google-cloud-language
+textblob
+groq
+fastapi
+uvicorn
+python-dotenv
+langchain-community
